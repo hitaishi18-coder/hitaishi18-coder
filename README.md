@@ -1,14 +1,13 @@
 ## 👋 About Me
 
-🔭 I'm a Full Stack Developer passionate about building scalable web applications and AI-powered solutions
-💻 Specialized in MERN stack development, RESTful APIs, and full-stack system design
-🚀 Experienced in building e-commerce platforms, AI chatbots, and automation workflows
-🤖 Working with AI integration and automation tools like LangChain, Groq, and n8n
-⚡ Skilled in React, Node.js, Express, MongoDB, and modern backend systems
-📊 Interested in Data Analytics, database management, and software engineering practices
-🎯 Focused on building real-world scalable applications and improving system design skills
-💡 Exploring AI-powered solutions, automation-driven technologies, and modern development practices
-📫 Open to collaboration, internships, and software development opportunities
+* 💻 Full Stack Developer (MERN Stack)
+* 🚀 Building scalable web apps, AI chatbots & automation workflows
+* ⚡ Skilled in React, Node.js, Express, MongoDB, REST APIs
+* 🤖 Exploring AI integration (LangChain, Groq, n8n)
+* 📊 Interested in Data Analytics & Backend System Design
+* 🎯 Focused on real-world projects and problem solving
+* 📫 Open to internships & collaboration opportunities
+
 
 
 ## 🌐 Socials:
