@@ -1,4 +1,15 @@
-## 👋 About Me<br><br>Hi, I'm **Hitaishi Lohtia** — a Full Stack Developer passionate about building scalable web applications and AI-powered solutions. I enjoy turning complex problems into practical, real-world products using modern technologies.<br><br>💻 I specialize in **MERN stack development**, RESTful APIs, and full-stack system design with hands-on experience in building e-commerce platforms, AI chatbots, and automation workflows.<br><br>🚀 I have experience developing and deploying production-ready applications, integrating AI models, and creating responsive user experiences. I’m also interested in **Data Analytics, Automation, and Software Engineering practices**.<br><br> 🔹 What I Work With<br><br>* ⚡ Full Stack Development (React, Node.js, Express, MongoDB)<br>* 🤖 AI Integration & Automation (LangChain, Groq, n8n)<br>* 🔗 REST API Development & Backend Systems<br>* 📊 Data Analytics & Database Management<br>* 🛠 Deployment & Cloud Platforms<br><br> 🔹 Currently Focused On<br><br>* Building real-world scalable applications<br>* Improving problem-solving & system design skills<br>* Exploring AI-powered and automation-driven solutions<br><br> 🎯 Career Goal<br><br>To contribute to impactful software products by building scalable systems and continuously growing as a software engineer.<br><br>📫 Open to collaboration, internships, and software development opportunities.<br>
+## 👋 About Me
+
+🔭 I'm a Full Stack Developer passionate about building scalable web applications and AI-powered solutions
+💻 Specialized in MERN stack development, RESTful APIs, and full-stack system design
+🚀 Experienced in building e-commerce platforms, AI chatbots, and automation workflows
+🤖 Working with AI integration and automation tools like LangChain, Groq, and n8n
+⚡ Skilled in React, Node.js, Express, MongoDB, and modern backend systems
+📊 Interested in Data Analytics, database management, and software engineering practices
+🎯 Focused on building real-world scalable applications and improving system design skills
+💡 Exploring AI-powered solutions, automation-driven technologies, and modern development practices
+📫 Open to collaboration, internships, and software development opportunities
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hitaishi18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitaishi-lohtia-99a219256/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hitaishi.8.8.8@gmail.com) 
