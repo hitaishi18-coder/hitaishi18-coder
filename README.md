@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Hitaishi Lohtia
+## Hi there! I'm Hitaishi Lohtia
 
 ## 👋 About Me
 
