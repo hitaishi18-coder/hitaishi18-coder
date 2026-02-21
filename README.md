@@ -1,3 +1,5 @@
+Hi there! 👋 I'm Hitaishi Lohtia
+
 ## 👋 About Me
 
 * 💻 Full Stack Developer (MERN Stack)
